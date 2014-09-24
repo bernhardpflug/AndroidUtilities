@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="VerticalViewPager">
+        <attr name="groundView" format="reference" />
+        <attr name="skyView" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SvgView">
+        <attr name="svg" format="reference" />
+    </declare-styleable>
+</resources>

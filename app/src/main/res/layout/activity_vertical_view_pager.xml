@@ -1,0 +1,8 @@
+<at.bernhardpflug.android.VerticalViewPager
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:apk="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/control_button_content"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    apk:groundView="@layout/layout_ground_view"
+    apk:skyView="@layout/layout_sky_view" />

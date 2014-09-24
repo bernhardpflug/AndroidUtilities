@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Utilities</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_ground_view">Ground view</string>
+    <string name="text_sky_view">Sky view</string>
+
+</resources>
